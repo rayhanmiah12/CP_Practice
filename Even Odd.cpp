@@ -23,10 +23,10 @@ int main() {
             negative++;
         }
     }
-    cout << even << endl;
-    cout << odd << endl;
-    cout << positive << endl;
-    cout << negative << endl;
+    cout << "Even: " << even << endl;
+    cout << "Odd: "  << odd << endl;
+    cout << "Positive: " << positive << endl;
+    cout << "Negative: " << negative << endl;
 
     return 0;
 }
